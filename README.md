@@ -1,1 +1,10 @@
-# lab-7
+vacum
+dustbine
+cofee maker
+brush
+toaster
+
+
+
+
+sofas
